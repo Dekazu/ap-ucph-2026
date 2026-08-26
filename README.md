@@ -105,8 +105,6 @@ with exercises and assignments.
 
 - bi - 2-2-07/09, Ole Maaløes Vej 5, Biocenter
 
-- øv - Auditorium Syd, Nørre Alle 51, NEXS
-
 - øv - NBB 1.01.B.080, Jagtvej 130
 
 - øv - NBB 1.01.F.70, Jagtvej 130
@@ -120,8 +118,6 @@ with exercises and assignments.
 - øv - A107, Universitetsparken 5, HCØ
 
 - bi - 2-0-07/09, Ole Maaløes Vej 5, Biocenter
-
-- øv - 1-0-04, Pavillon 1. sal, Universitetsparken 13, DIKU
 
 ## Assignments
 

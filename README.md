@@ -183,10 +183,14 @@ Violation of these rules will result in points deductions.
 
 The exam is a written on-premise exam under invigilation. All aids allowed
 except Generative AI and Internet access. The questions asked in the exam will
-resemble those asked in the assignments. The exam format has changed for this
-year, and hence we are still working out the details of how it will work. It
-intended that solving the assignments is the best way to prepare for the exam,
-and we will design the exam such that this is the case.
+resemble those asked in the assignments, and will involve direct questions about
+hypothetical changes to code handed out or developed during the assignments. The
+exam will not involve any substantial writing of code.
+
+The exam format has changed for this year, and hence we are still working out
+the details of how it will work. It intended that solving the assignments is the
+best way to prepare for the exam, and we will design the exam such that this is
+the case.
 
 ### Qualification
 
@@ -197,21 +201,18 @@ need to get *at least* one point in each of first *five* assignments.
 ### If you qualified in a previous year
 
 If you qualified for the exam in a previous year, then you are still qualified.
-When we approach the exam, and we have to send in a list of students who have
-qualified, we will post a message telling you to contact us to inform us of
-this.
+However, you must contact a teacher so we can make a note of your qualification,
+as it is not automated by KU.
 
 We still recommend you follow the course.
 
 ### Time and place.
 
-TBA.
+9th of November 2026 at "Eksamenshuset".
 
 ## Reexam
 
-The reexam takes the same form as the ordinary exam (with the possibility of
-switching to an oral exam if there are very few attendees, but this is highly
-unlikely). Time and place is TBA.
+The reexam is a 30 minute oral examination without preparation.
 
 If you did not qualify for the ordinary exam, qualification for the re-exam can
 be achieved by (re)submission and approval of the mandatory assignments. The

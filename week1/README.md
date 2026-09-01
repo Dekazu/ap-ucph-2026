@@ -8,6 +8,8 @@ most explicit example of this idea.
 
 ## Slides and material
 
+* [Tuesday](1a.pdf)
+
 ## Suggested Reading
 
 * Part 1 of *Programming in Haskell*. Most of this is standard functional
